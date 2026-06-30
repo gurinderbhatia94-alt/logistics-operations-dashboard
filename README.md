@@ -16,4 +16,17 @@ This Power BI dashboard provides insights into logistics and operations performa
 - Business performance insights
 
 ## Dashboard Preview
-Please refer to the attached PDF to explore the complete dashboard.
+
+Please download the PDF to view the complete interactive dashboard.
+
+📄 **Project File:** [Logistics_Operations_Dashboard.pdf](./Logistics_Operations_Dashboard.pdf)
+
+## Skills Demonstrated
+
+- Power BI Dashboard Development
+- SQL Data Analysis
+- Advanced Microsoft Excel
+- KPI Reporting
+- Logistics & Operations Analytics
+- Business Intelligence
+- Data Visualization
